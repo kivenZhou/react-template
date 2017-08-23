@@ -7,9 +7,9 @@ Base react, antd-mobile, webpack
 
 ## 执行方法
 
-git clone https://github.com/kivenZhou/react-template.git
+git clone https://github.com/kivenZhou/react-template-forApp.git
 
-cd react-template
+cd react-template-forApp
 
 npm install
 
